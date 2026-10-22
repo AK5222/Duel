@@ -1,4 +1,4 @@
-# FighterGameTesting
+# Duel-FPGA Fighter Game 
 
 A Street Fighter–style FPGA game on a 4.3" 480×272 TFT LCD. Two animated knights move, jump, and attack each other, with health bars in the HUD that drain on landed hits. No framebuffer — all rendering is done in real time.
 
